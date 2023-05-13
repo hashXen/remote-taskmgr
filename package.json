@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "ffi-napi": "^4.0.3"
-  }
+  },
+  "name": "remote-taskmgr",
+  "version": "1.0.0",
+  "description": "A remote, React-based task manager that helps you manage processes on your computer from the web. (It can help you big time when your video game crashes and it's near-impossible to close it)",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashXen/remote-taskmgr.git"
+  },
+  "keywords": [
+    "react",
+    "taskmgr",
+    "admin",
+    "remote"
+  ],
+  "author": "hashXen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hashXen/remote-taskmgr/issues"
+  },
+  "homepage": "https://github.com/hashXen/remote-taskmgr#readme"
 }
